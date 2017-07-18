@@ -1,0 +1,24 @@
+{
+  "name": "personal-finance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PrateekAgarwal20/personal-finance.git"
+  },
+  "author": "Prateek Agarwal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PrateekAgarwal20/personal-finance/issues"
+  },
+  "homepage": "https://github.com/PrateekAgarwal20/personal-finance#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "nodemon": "^1.11.0",
+    "tesseract.js": "^1.0.10"
+  }
+}
